@@ -1,0 +1,1 @@
+child[current]->insert(s, i + 1);
